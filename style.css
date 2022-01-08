@@ -1,0 +1,25 @@
+html {
+  background-color: #ded7cd;
+  border-color: #282222;
+  color: #282222;
+  font-family: "Gotham,Sofia,Courier,Arial,sans-serif";
+}
+
+h1 {
+  color: #ff725c;
+  font-family: "Surveyor,Bodoni";
+}
+
+h3 {
+  color: #353820;
+  font-family: "Circular,Gotham,Ogonek-Light";
+}
+
+a:hover {
+  color: #ff725c;
+}
+
+button {
+  background-color: #ffdfdf;
+  border-radius: 2px;
+}
