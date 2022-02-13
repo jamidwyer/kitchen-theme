@@ -1,0 +1,26 @@
+:root {
+  --record-black: #333333;
+  --nevermind-blue: #0b64b0;
+  --thriller-cream: #eae8db;
+  --hotel-california-sunset: #fef7bb;
+  --dj-kicks-green: #498c5c;
+  --extra-pink: #f0a9a9;
+  --legible-font: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --nevermind-font: "Onyx";
+}
+
+html {
+  background-color: var(--record-black);
+}
+
+body {
+  color: var(--record-black);
+  font-family: var(--legible-font);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+  padding: 1rem;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
