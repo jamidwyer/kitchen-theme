@@ -1,3 +1,3 @@
-# kitchen-theme
+# rui-themes
 
-just some css
+Various CSS. To use with RUI, change the name of the theme you want to use to style.css.
